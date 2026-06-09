@@ -12,9 +12,9 @@
 - Dagster
 
 ## Current Focus
-Helsinki Python MOOC 
-CS50 Databases with SQL
-MIT Missing Semester - Git
+ - Helsinki Python MOOC 
+ - CS50 Databases with SQL
+ - MIT Missing Semester - Git
 
 ## Weekly Progress
 See the `weekly-updates` folder.
