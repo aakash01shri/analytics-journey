@@ -15,7 +15,4 @@
 Helsinki Python MOOC — Part 3 in progress
 
 ## Weekly Progress
-| Week | Completed |
-|------|-----------|
-| Week 1-2 | Helsinki Parts 1 & 2, CS50 SQL Week 0, Git Missing Semester |
-| Week 3 | Helsinki Part 3 (in progress) |
+See the `weekly-updates` folder.
