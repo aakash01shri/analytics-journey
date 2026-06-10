@@ -1,6 +1,6 @@
 # Analytics Engineering Journey
 
-7 years in data analytics. Now building engineering depth.
+Building modern data and analytics engineering skills through hands-on projects, structured learning, and consistent practice.
 
 ## Stack I'm building
 - Python
